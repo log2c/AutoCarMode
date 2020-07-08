@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoCarMode</string>
+    <string name="accessibility_service_description">检测到驾车模式开启对话框后自动点击确认</string>
+    <string name="to_open">去开启</string>
+</resources>
